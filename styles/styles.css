@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 :root {
     --cor--primaria: "black";
     --cor--fonte: "white";
@@ -13,4 +14,8 @@ body {
     box-sizing: border-box;
     background-color: black;
     color: white;
+}
+
+.apresentacao__main__cabecalho {
+    border: solid
 }
