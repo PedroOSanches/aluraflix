@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: ;
+    padding: 0;
 }
 
 :root {
@@ -17,5 +17,8 @@ body {
 }
 
 .apresentacao__main__cabecalho {
-    border: solid 1px
+    border-bottom: solid 2px rgb(42, 122, 228);
+    font-weight: bold;
+    padding: 20px;
 }
+
