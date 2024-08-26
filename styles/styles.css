@@ -39,3 +39,12 @@ body {
     font-family: var(--fonte--comum);
     font-size: 2.22rem;
 }
+
+img {
+    height: 200px;
+}
+.apresentacao_filmes_e_series {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
