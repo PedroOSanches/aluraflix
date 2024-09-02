@@ -46,5 +46,13 @@ img {
 .apresentacao_filmes_e_series {
     display: flex;
     overflow-x: auto;
-    gap: 10px
+    gap: 10px;
+}
+.apresentacao_filmes_e_series img {
+    opacity: 0.5;
+}
+
+.apresentacao_filmes_e_series img:hover {
+opacity: 1;
+border: 1px solid green;
 }
